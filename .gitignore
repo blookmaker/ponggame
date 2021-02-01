@@ -3,3 +3,5 @@ Library/
 obj/
 *.csproj
 *.sln
+Assets/Install Bolt/Bolt_1_4_13_Source.zip
+*.unitypackage
